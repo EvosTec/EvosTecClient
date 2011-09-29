@@ -1,0 +1,12 @@
+[submodule "verbose/dojo"]
+	path = verbose/dojo
+	url = git://github.com/dojo/dojo.git
+[submodule "verbose/dojo/dojo"]
+	path = verbose/dojo/dojo
+	url = git://github.com/dojo/dojo.git
+[submodule "verbose/dojo/dijit"]
+	path = verbose/dojo/dijit
+	url = git://github.com/dojo/dijit.git
+[submodule "verbose/dojo/dojox"]
+	path = verbose/dojo/dojox
+	url = git://github.com/dojo/dojox.git
